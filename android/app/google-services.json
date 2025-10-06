@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460094241989",
+    "project_id": "ferisoft-flutter-mulakat",
+    "storage_bucket": "ferisoft-flutter-mulakat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460094241989:android:e854fc35f7a6ca9d2e84ac",
+        "android_client_info": {
+          "package_name": "com.ferisoft.mulakat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGB_PU1R10EaeE1-yX_4_C8nx9CYEggzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
