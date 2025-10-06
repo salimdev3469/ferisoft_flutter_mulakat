@@ -1,1 +1,5 @@
-# ferisoft_flutter_mulakat
+# Ferisoft Flutter Mülakat
+<img width="1198" height="2531" alt="Screenshot_20251006_142530" src="https://github.com/user-attachments/assets/7e1a73c0-1801-4e7b-b89c-edfc10c5bc02" />
+<img width="1198" height="2531" alt="Screenshot_20251006_142550" src="https://github.com/user-attachments/assets/14585d62-1057-4e94-98f6-5eb6fe349316" />
+<img width="1198" height="2531" alt="Screenshot_20251006_142601" src="https://github.com/user-attachments/assets/427dd7ba-748f-4e02-8e8c-f6549630001e" />
+<img width="1650" height="690" alt="Ekran görüntüsü 2025-10-06 143239" src="https://github.com/user-attachments/assets/201129eb-a2ab-4090-8a3c-ae4e52566c5f" />
